@@ -1,7 +1,7 @@
 # AmpliVision3D
 
 # Description
-AmpliVision 3D is a dual project. It first aims to be a door to draw interest towards AmpliVision with an eye-catching portfolio style webpage. Sencond, it includes a cool visualization tool that allows users to build and share their own 3D AmpliTest setups. 
+AmpliVision 3D is a dual project. It first aims to be a door to draw interest towards AmpliVision with an eye-catching portfolio style webpage. Sencond, it includes a cool visualization tool that allows users to build and share their own 3D AmpliTest setups. The visualization is an adaptation of Assignment 2. 
 
 
 # Installation
@@ -13,4 +13,4 @@ AmpliVision 3D is a dual project. It first aims to be a door to draw interest to
 
 # Usage
 The webpage is mostly just scroll and see. The Visualization tool supports the following commands: 
-![image]()
+![image](https://github.com/Mattynb/CS460student/blob/main/final/AmpliVision3D/public/controls.png?raw=true)
