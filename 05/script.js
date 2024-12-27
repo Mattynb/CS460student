@@ -65,7 +65,7 @@ window.onload = function () {
     loader = new GLTFLoader();
 
     // Front model
-    loader.load('assets/portrait.glb', function (gltf) {
+    loader.load('assets/portrait2.glb', function (gltf) {
         scene.add(gltf.scene);
         var poly = gltf.scenes[0].children[0];
         poly.scale.set(100, 100, 100);
@@ -88,7 +88,7 @@ window.onload = function () {
     });
 
     // Back model
-    loader.load('assets/portrait_raw.glb', function (gltf) {
+    loader.load('assets/portrait2.glb', function (gltf) {
         scene.add(gltf.scene);
         var poly = gltf.scenes[0];
         poly.scale.set(100, 100, 100);
